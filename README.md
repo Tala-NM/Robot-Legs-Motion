@@ -49,4 +49,6 @@ The goal is to achieve forward motion in a stable and balanced manner.
       - Introduce appropriate delays between each movement step.
       - **Why:** Delays ensure smooth and coordinated movement.
       - **How:** Use delay functions to create pauses between movements.
+     
+By following this algorithm, we ensure that the robot achieves a stable and balanced forward walking motion, making it an essential foundation for further enhancements and adaptations to more complex movements and functionalities.
 
